@@ -1,0 +1,47 @@
+body {
+    margin: 30px;
+}
+
+.pokemon {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: yellow;
+    border: red 2px solid;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+.card {
+    border: 3px solid yellow;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    border-radius: 20px;
+    display: flex;
+    background-color: black ;
+    color: white;
+    font-family: sans-serif;
+}
+
+button {
+    border-radius: 20px;
+    padding: 10px 20px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border: 1px solid black;
+    font-weight: bold;
+}
+
+.content {
+    display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.atag {
+    color: yellow;
+}
